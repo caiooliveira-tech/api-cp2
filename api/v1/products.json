@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "title": "Camiseta Básica Algodão",
+    "title": "Camiseta Estampada",
     "price": 49.9,
     "category": "roupas",
-    "description": "Camiseta de algodão com modelagem reta.",
-    "image": "https://picsum.photos/seed/camiseta/400",
+    "description": "Camiseta de algodão com estampa frontal.",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
     "rating": {
       "rate": 4.5,
       "count": 210
@@ -14,11 +14,11 @@
   },
   {
     "id": "2",
-    "title": "Moletom Canguru",
+    "title": "Tênis Casual",
     "price": "189.90",
     "category": "roupas",
-    "description": "Moletom com capuz e bolso frontal.",
-    "image": "https://picsum.photos/seed/moletom/400",
+    "description": "Tênis leve para o dia a dia.",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
     "rating": {
       "rate": 4.7,
       "count": 98
@@ -27,12 +27,12 @@
   },
   {
     "id": "3",
-    "title": "Calça Jeans Slim",
+    "title": "Camisa Xadrez",
     "price": 159.9,
     "precoOriginal": 199.9,
     "category": "roupas",
-    "description": "Calça jeans com elastano.",
-    "image": "https://picsum.photos/seed/jeans/400",
+    "description": "Camisa xadrez de manga longa.",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp",
     "rating": {
       "rate": 4.2,
       "count": 143
@@ -41,11 +41,11 @@
   },
   {
     "id": "4",
-    "title": "Jaqueta Corta-Vento",
+    "title": "Tênis Esportivo",
     "price": "249",
     "category": "roupas",
-    "description": "Jaqueta leve e resistente ao vento.",
-    "image": "https://picsum.photos/seed/jaqueta/400",
+    "description": "Tênis esportivo com amortecimento.",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
     "rating": {
       "rate": 4.4,
       "count": 61
@@ -54,12 +54,12 @@
   },
   {
     "id": "5",
-    "title": "Bermuda Moletom",
+    "title": "Camisa Manga Curta",
     "price": 79.9,
     "precoOriginal": 99.9,
     "category": "roupas",
-    "description": "Bermuda confortável para o dia a dia.",
-    "image": "https://picsum.photos/seed/bermuda/400",
+    "description": "Camisa leve de manga curta.",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
     "rating": {
       "rate": 4.1,
       "count": 37
@@ -68,10 +68,10 @@
   },
   {
     "id": "6",
-    "title": "Camisa Social Linho",
+    "title": "Vestido Xadrez",
     "category": "roupas",
-    "description": "Camisa de linho, coleção nova em cadastro.",
-    "image": "https://picsum.photos/seed/linho/400",
+    "description": "Vestido xadrez, coleção nova em cadastro.",
+    "image": "https://cdn.dummyjson.com/product-images/tops/tartan-dress/thumbnail.webp",
     "rating": {
       "rate": 0,
       "count": 0
@@ -80,12 +80,12 @@
   },
   {
     "id": "7",
-    "title": "Fone Bluetooth",
+    "title": "Fone Sem Fio Over-ear",
     "price": 299.9,
     "precoOriginal": 379.9,
     "category": "eletronicos",
     "description": "Fone sem fio com cancelamento de ruído.",
-    "image": "https://picsum.photos/seed/fone/400",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
     "rating": {
       "rate": 4.6,
       "count": 512
@@ -94,11 +94,11 @@
   },
   {
     "id": "8",
-    "title": "Carregador Turbo 30W",
+    "title": "Carregador Turbo",
     "price": "89",
     "category": "eletronicos",
     "description": "Carregador USB-C de carregamento rápido.",
-    "image": "https://picsum.photos/seed/carregador/400",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp",
     "rating": {
       "rate": 4.3,
       "count": 230
@@ -107,11 +107,11 @@
   },
   {
     "id": "9",
-    "title": "Caixa de Som Portátil",
+    "title": "Caixa de Som Inteligente",
     "price": 219.9,
     "category": "eletronicos",
-    "description": "Caixa de som à prova d'água.",
-    "image": "https://picsum.photos/seed/caixasom/400",
+    "description": "Caixa de som com assistente de voz.",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
     "rating": {
       "rate": 4.5,
       "count": 188
@@ -120,11 +120,11 @@
   },
   {
     "id": "10",
-    "title": "Mouse Sem Fio",
+    "title": "Fone Intra-auricular",
     "price": "59.90",
     "category": "eletronicos",
-    "description": "Mouse ergonômico com receptor USB.",
-    "image": "https://picsum.photos/seed/mouse/400",
+    "description": "Fone sem fio com cabo de pescoço.",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
     "rating": {
       "rate": 4,
       "count": 302
@@ -133,11 +133,11 @@
   },
   {
     "id": "11",
-    "title": "Teclado Mecânico",
+    "title": "Bateria Portátil",
     "price": 349.9,
     "category": "eletronicos",
-    "description": "Teclado mecânico com iluminação.",
-    "image": "https://picsum.photos/seed/teclado/400",
+    "description": "Bateria magnética para celular.",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
     "rating": {
       "rate": 4.8,
       "count": 76
@@ -146,11 +146,11 @@
   },
   {
     "id": "12",
-    "title": "Mochila Notebook",
+    "title": "Mochila Couro Sintético",
     "price": 179.9,
     "category": "acessorios",
     "description": "Mochila com compartimento acolchoado.",
-    "image": "https://picsum.photos/seed/mochila/400",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/thumbnail.webp",
     "rating": {
       "rate": 4.6,
       "count": 154
@@ -159,12 +159,12 @@
   },
   {
     "id": "13",
-    "title": "Boné Aba Curva",
+    "title": "Brinco Cristal Verde",
     "price": "69.90",
     "precoOriginal": 89.9,
     "category": "acessorios",
-    "description": "Boné ajustável de algodão.",
-    "image": "https://picsum.photos/seed/bone/400",
+    "description": "Brinco com cristal verde.",
+    "image": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/thumbnail.webp",
     "rating": {
       "rate": 4.2,
       "count": 49
@@ -173,11 +173,11 @@
   },
   {
     "id": "14",
-    "title": "Óculos de Sol",
+    "title": "Óculos de Sol Clássico",
     "price": 129.9,
     "category": "acessorios",
     "description": "Óculos com proteção UV400.",
-    "image": "https://picsum.photos/seed/oculos/400",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp",
     "rating": {
       "rate": 4.3,
       "count": 88
@@ -186,11 +186,11 @@
   },
   {
     "id": "15",
-    "title": "Carteira de Couro",
+    "title": "Óculos de Sol Preto",
     "price": 99.9,
     "category": "acessorios",
-    "description": "Carteira compacta de couro legítimo.",
-    "image": "https://picsum.photos/seed/carteira/400",
+    "description": "Óculos com armação preta.",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp",
     "rating": {
       "rate": 4.4,
       "count": 67
@@ -199,10 +199,10 @@
   },
   {
     "id": "16",
-    "title": "Relógio Digital",
+    "title": "Relógio Pulseira de Couro",
     "category": "acessorios",
-    "description": "Relógio digital esportivo, em cadastro.",
-    "image": "https://picsum.photos/seed/relogio/400",
+    "description": "Relógio analógico com pulseira de couro, em cadastro.",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
     "rating": {
       "rate": 0,
       "count": 0
@@ -214,8 +214,8 @@
     "title": "Luminária de Mesa",
     "price": 139.9,
     "category": "casa",
-    "description": "Luminária articulada com luz LED.",
-    "image": "https://picsum.photos/seed/luminaria/400",
+    "description": "Luminária com cúpula de tecido.",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
     "rating": {
       "rate": 4.5,
       "count": 92
@@ -224,11 +224,11 @@
   },
   {
     "id": "18",
-    "title": "Caneca Térmica",
+    "title": "Copo Térmico",
     "price": "45",
     "category": "casa",
-    "description": "Caneca que mantém a temperatura por horas.",
-    "image": "https://picsum.photos/seed/caneca/400",
+    "description": "Copo de alumínio que mantém a temperatura.",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
     "rating": {
       "rate": 4.7,
       "count": 340
@@ -237,12 +237,12 @@
   },
   {
     "id": "19",
-    "title": "Kit Organizadores",
+    "title": "Porta-Temperos",
     "price": 89.9,
     "precoOriginal": 119.9,
     "category": "casa",
-    "description": "Conjunto com 4 caixas organizadoras.",
-    "image": "https://picsum.photos/seed/organizador/400",
+    "description": "Suporte giratório com potes de tempero.",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/thumbnail.webp",
     "rating": {
       "rate": 4.1,
       "count": 58
@@ -251,11 +251,11 @@
   },
   {
     "id": "20",
-    "title": "Almofada Decorativa",
+    "title": "Vaso de Planta",
     "price": 59.9,
     "category": "casa",
-    "description": "Almofada com capa removível.",
-    "image": "https://picsum.photos/seed/almofada/400",
+    "description": "Vaso decorativo de cerâmica.",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp",
     "rating": {
       "rate": 4,
       "count": 23
