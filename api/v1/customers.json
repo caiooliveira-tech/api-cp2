@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "nome": "Mariana Costa Lima",
+    "email": "mariana.lima@email.com",
+    "pedidosAnteriores": 3
+  },
+  {
+    "id": "2",
+    "nome": "João Pedro Alves",
+    "email": "joao.alves@email.com",
+    "pedidosAnteriores": 0
+  },
+  {
+    "id": "3",
+    "nome": "Ana Beatriz Souza",
+    "email": "ana.souza@email.com",
+    "pedidosAnteriores": 1
+  },
+  {
+    "id": "4",
+    "nome": "Carlos Eduardo Ramos",
+    "email": "carlos.ramos@email.com",
+    "pedidosAnteriores": 0
+  }
+]

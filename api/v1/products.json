@@ -1,0 +1,265 @@
+[
+  {
+    "id": "1",
+    "title": "Camiseta Básica Algodão",
+    "price": 49.9,
+    "category": "roupas",
+    "description": "Camiseta de algodão com modelagem reta.",
+    "image": "https://picsum.photos/seed/camiseta/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 210
+    },
+    "estoque": 32
+  },
+  {
+    "id": "2",
+    "title": "Moletom Canguru",
+    "price": "189.90",
+    "category": "roupas",
+    "description": "Moletom com capuz e bolso frontal.",
+    "image": "https://picsum.photos/seed/moletom/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 98
+    },
+    "estoque": 4
+  },
+  {
+    "id": "3",
+    "title": "Calça Jeans Slim",
+    "price": 159.9,
+    "precoOriginal": 199.9,
+    "category": "roupas",
+    "description": "Calça jeans com elastano.",
+    "image": "https://picsum.photos/seed/jeans/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 143
+    },
+    "estoque": 12
+  },
+  {
+    "id": "4",
+    "title": "Jaqueta Corta-Vento",
+    "price": "249",
+    "category": "roupas",
+    "description": "Jaqueta leve e resistente ao vento.",
+    "image": "https://picsum.photos/seed/jaqueta/400",
+    "rating": {
+      "rate": 4.4,
+      "count": 61
+    },
+    "estoque": 0
+  },
+  {
+    "id": "5",
+    "title": "Bermuda Moletom",
+    "price": 79.9,
+    "precoOriginal": 99.9,
+    "category": "roupas",
+    "description": "Bermuda confortável para o dia a dia.",
+    "image": "https://picsum.photos/seed/bermuda/400",
+    "rating": {
+      "rate": 4.1,
+      "count": 37
+    },
+    "estoque": 2
+  },
+  {
+    "id": "6",
+    "title": "Camisa Social Linho",
+    "category": "roupas",
+    "description": "Camisa de linho, coleção nova em cadastro.",
+    "image": "https://picsum.photos/seed/linho/400",
+    "rating": {
+      "rate": 0,
+      "count": 0
+    },
+    "estoque": 15
+  },
+  {
+    "id": "7",
+    "title": "Fone Bluetooth",
+    "price": 299.9,
+    "precoOriginal": 379.9,
+    "category": "eletronicos",
+    "description": "Fone sem fio com cancelamento de ruído.",
+    "image": "https://picsum.photos/seed/fone/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 512
+    },
+    "estoque": 8
+  },
+  {
+    "id": "8",
+    "title": "Carregador Turbo 30W",
+    "price": "89",
+    "category": "eletronicos",
+    "description": "Carregador USB-C de carregamento rápido.",
+    "image": "https://picsum.photos/seed/carregador/400",
+    "rating": {
+      "rate": 4.3,
+      "count": 230
+    },
+    "estoque": 40
+  },
+  {
+    "id": "9",
+    "title": "Caixa de Som Portátil",
+    "price": 219.9,
+    "category": "eletronicos",
+    "description": "Caixa de som à prova d'água.",
+    "image": "https://picsum.photos/seed/caixasom/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 188
+    },
+    "estoque": 0
+  },
+  {
+    "id": "10",
+    "title": "Mouse Sem Fio",
+    "price": "59.90",
+    "category": "eletronicos",
+    "description": "Mouse ergonômico com receptor USB.",
+    "image": "https://picsum.photos/seed/mouse/400",
+    "rating": {
+      "rate": 4,
+      "count": 302
+    },
+    "estoque": 3
+  },
+  {
+    "id": "11",
+    "title": "Teclado Mecânico",
+    "price": 349.9,
+    "category": "eletronicos",
+    "description": "Teclado mecânico com iluminação.",
+    "image": "https://picsum.photos/seed/teclado/400",
+    "rating": {
+      "rate": 4.8,
+      "count": 76
+    },
+    "estoque": 6
+  },
+  {
+    "id": "12",
+    "title": "Mochila Notebook",
+    "price": 179.9,
+    "category": "acessorios",
+    "description": "Mochila com compartimento acolchoado.",
+    "image": "https://picsum.photos/seed/mochila/400",
+    "rating": {
+      "rate": 4.6,
+      "count": 154
+    },
+    "estoque": 10
+  },
+  {
+    "id": "13",
+    "title": "Boné Aba Curva",
+    "price": "69.90",
+    "precoOriginal": 89.9,
+    "category": "acessorios",
+    "description": "Boné ajustável de algodão.",
+    "image": "https://picsum.photos/seed/bone/400",
+    "rating": {
+      "rate": 4.2,
+      "count": 49
+    },
+    "estoque": 1
+  },
+  {
+    "id": "14",
+    "title": "Óculos de Sol",
+    "price": 129.9,
+    "category": "acessorios",
+    "description": "Óculos com proteção UV400.",
+    "image": "https://picsum.photos/seed/oculos/400",
+    "rating": {
+      "rate": 4.3,
+      "count": 88
+    },
+    "estoque": 0
+  },
+  {
+    "id": "15",
+    "title": "Carteira de Couro",
+    "price": 99.9,
+    "category": "acessorios",
+    "description": "Carteira compacta de couro legítimo.",
+    "image": "https://picsum.photos/seed/carteira/400",
+    "rating": {
+      "rate": 4.4,
+      "count": 67
+    },
+    "estoque": 20
+  },
+  {
+    "id": "16",
+    "title": "Relógio Digital",
+    "category": "acessorios",
+    "description": "Relógio digital esportivo, em cadastro.",
+    "image": "https://picsum.photos/seed/relogio/400",
+    "rating": {
+      "rate": 0,
+      "count": 0
+    },
+    "estoque": 7
+  },
+  {
+    "id": "17",
+    "title": "Luminária de Mesa",
+    "price": 139.9,
+    "category": "casa",
+    "description": "Luminária articulada com luz LED.",
+    "image": "https://picsum.photos/seed/luminaria/400",
+    "rating": {
+      "rate": 4.5,
+      "count": 92
+    },
+    "estoque": 9
+  },
+  {
+    "id": "18",
+    "title": "Caneca Térmica",
+    "price": "45",
+    "category": "casa",
+    "description": "Caneca que mantém a temperatura por horas.",
+    "image": "https://picsum.photos/seed/caneca/400",
+    "rating": {
+      "rate": 4.7,
+      "count": 340
+    },
+    "estoque": 50
+  },
+  {
+    "id": "19",
+    "title": "Kit Organizadores",
+    "price": 89.9,
+    "precoOriginal": 119.9,
+    "category": "casa",
+    "description": "Conjunto com 4 caixas organizadoras.",
+    "image": "https://picsum.photos/seed/organizador/400",
+    "rating": {
+      "rate": 4.1,
+      "count": 58
+    },
+    "estoque": 14
+  },
+  {
+    "id": "20",
+    "title": "Almofada Decorativa",
+    "price": 59.9,
+    "category": "casa",
+    "description": "Almofada com capa removível.",
+    "image": "https://picsum.photos/seed/almofada/400",
+    "rating": {
+      "rate": 4,
+      "count": 23
+    },
+    "estoque": 18
+  }
+]
